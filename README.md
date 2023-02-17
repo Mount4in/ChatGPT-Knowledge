@@ -1,6 +1,6 @@
 # Chat-GPT Knowledge
 
-![1676256945444](C:\Users\ThinkStation\AppData\Roaming\Typora\typora-user-images\1676256945444.png)
+![1676256945444](.\README\1676256945444.png)
 
 ### Chat-GPT与网络安全
 
@@ -11,7 +11,7 @@
   
     生成式预训练语言模型 (Generative Pre-trained Transformer )
   
-  ![1676160832539](C:\Users\ThinkStation\AppData\Roaming\Typora\typora-user-images\1676160832539.png)
+  ![1676160832539](.\README\1676160832539.png)
   
   模型训练中用到了强化学习
 
@@ -25,7 +25,7 @@
 
   决策式到生成式
 
-   ![图片](https://mmbiz.qpic.cn/mmbiz_png/Iia6NmyoFJhIdPA6UIY8Tz99IbQmHWurHIVOMOacbysvQTfIe58aLJ1h0CZ4nq5eQOsialibibOFQ6fbtCwssU5oRA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1) 
+   ![图片](.\README\640.png) 
 
   专用人工智能到通用人工智能
 
