@@ -65,13 +65,13 @@
   >
   > 随着ChatGPT人工智能模型的演进，有可能实现漏洞检测和修复的自动化和/或半自动化，以及基于风险的优先级。这对于面临资源限制的 IT 和安全团队来说将是非常有吸引力的应用。
 
--  [ChatGPT背后的核心技术 (qq.com)](https://mp.weixin.qq.com/s/gOZSiXDYeI0DqyJubhAIOQ) 
+-  [ChatGPT背后的核心技术](https://mp.weixin.qq.com/s/gOZSiXDYeI0DqyJubhAIOQ) 
 
   >  James Pei [格上财富](javascript:void(0);) 
 
   ChatGPT的计算逻辑来自于一个名为transformer的算法，它来源于2017年的一篇科研论文《Attention is all your need》 
 
--   [浅析ChatGPT：历史沿革、应用现状及前景展望 (qq.com)](https://mp.weixin.qq.com/s/L6ZC_6zgWXOcP5IBAMCejw) 
+-   [浅析ChatGPT：历史沿革、应用现状及前景展望 ](https://mp.weixin.qq.com/s/L6ZC_6zgWXOcP5IBAMCejw) 
 
   >   刘禹良等  [CSIG文档图像分析与识别专委会](javascript:void(0);) 
 
@@ -107,5 +107,35 @@
   > - **受限于计算资源。**如果计算资源不足，ChatGPT就不能得到很好的应用。
   > - **无法在线更新新知识。**目前的范式增加新知识的方式只能通过重新训练预训练GPT模型，但这无疑是不太现实的，因为其会耗费巨大的计算成本。
   
-  
+-   [ChatGPT 数据集之谜](https://mp.weixin.qq.com/s/LLAs45yJFbvfZRYIbcgU6A) 
+
+  > CSDN  Alan D. Thompson 
+
+  >  ![图片](https://mmbiz.qpic.cn/mmbiz_png/lBhAE42wKWq8vNMMhx7UalPsfL7gT1NlvVDvdQMx9kEp8mzpF1GSQ74ljveS7IENg7FzvYKJia77wst8JUKTr7Q/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+  >
+  > 强烈建议研究人员在记录数据集时，数据集大小（GB）、token数量（B）、来源、分组和其他详细信息指标均应完整记录和发布。  
+
+-  [ChatGPT背后模型被证实具有人类心智！斯坦福新研究炸了，知名学者：“这一天终于来了”](https://mp.weixin.qq.com/s/zgrJVFvkqG69BrQCky193A) 
+
+  >  关注前沿科技 [量子位](javascript:void(0);) 
+
+  >  “原本认为是**人类独有的心智理论**（Theory of Mind，ToM），已经出现在**ChatGPT背后的AI模型**上。” 
+  >
+  >  心智理论，就是理解他人或自己心理状态的能力，包括**同理心、情绪、意图**等。 
+  >
+  > 中国科学院计算技术研究所研究员刘群看过研究后就认为：
+  >
+  > > AI应该只是学得**像有心智**了。
+  >
+  > ![图片](https://mmbiz.qpic.cn/mmbiz_png/YicUhk5aAGtCrP9WgtrIX6Ric8UQXKcLHnMme8B6SBfCEMWP0mtSGUcl0tXibqCbWJ94KtutpMoBcU5mjHMrZYxtw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+-   An Analysis of the Automatic Bug Fixing Performance of ChatGPT 
+
+  > ​        To support programmers in fifinding and fifixing software bugs, several automated program repair (APR) methods have been proposed. ChatGPT, a recently presented deep learning (DL) based dialogue system, can also make suggestions for improving erroneous source code. However, so far the quality of these suggestions has been unclear. Therefore, we compared in this work the automatic bug fixing performance of ChatGPT with that of Codex and several dedicated APR approaches. 
+  >
+  > ​        We find that ChatGPT has similar performance to Codex and dedicated DL-based APR on a standard benchmark set. It vastly outperforms standard APR methods (19 vs. 7 out of 40 bugs fifixed). Using ChatGPT’s dialogue option and giving the system more information about the bug in a follow-up request boosts the performance even further, giving an overall success rate of 77*.*5%. This shows that human input can be of much help to an automated APR system, with ChatGPT providing means to do so. 
+  >
+  > ​        Despite its great performance, the question arises whether the mental cost required to verify ChatGPT answers outweighs the advantages that ChatGPT brings. Perhaps incorporation of automated approaches to provide ChatGPT with hints as well as automated verifification of its responses, e.g., through automated testing, would yield ChatGPT to be a viable tool that would help software developers in their daily tasks. 
+  >
+  > ​        We hope our results and observations will be helpful for future work with ChatGPT.
 
